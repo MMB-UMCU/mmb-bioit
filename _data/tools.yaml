@@ -2,7 +2,7 @@
   group: featured
   image: images/education_logo_mmbioit.png
   link: https://github.com/
-  description: plasmidEC identifies plasmid-derived contigs in E. coli. This tool combines the output of three binary classification tools and implements a majority vote system. Currently, the user can choose any combination of the following four softwares: PlaScope, Platon, RFPlasmid and mlplasmids. More softwares could be added in the future.
+  description: plasmidEC identifies plasmid-derived contigs in E. coli. 
   repo: sdevriend/AdventOfCode_2021
   
 - name: Cool Package
