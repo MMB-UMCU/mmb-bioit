@@ -1,9 +1,9 @@
-- name: Coool Dataset
+- name: Coool - Dataset plasmidEC plasmid Ensemble Classifier
   group: featured
   image: images/education_logo_mmbioit.png
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: lisavader/plasmidec
+  repo: sdevriend/AdventOfCode_2021
 
 - name: Cool Package
   group: featured
