@@ -11,6 +11,8 @@ The Medical Microbiology bioinformatics (MMB-BioIT) team from the University Med
 
 {% include figure.html
   image="images/Group_picture_2024.jpg"
+  link="team"
+  width="1182px"
 %}
 
 {% include section.html %}
