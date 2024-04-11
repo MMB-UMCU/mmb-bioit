@@ -4,7 +4,7 @@ title: Home
 
 # MMB-BioIT
 
-The Medical Microbiology bioinformatics (MMB-BioIT) team from the University Medical Center Utrecht (UMCU) consists of researchers with different scientifical backgrounds. Our efforts are dedicated to develop and use bioinformatic tools that facilitate data analysis on large amounts of DNA sequences, including whole genome sequences (WGS), taxonomic profiling using 16S rRNA gene sequencing and metagenomic sequencing.
+Test Test Test The Medical Microbiology bioinformatics (MMB-BioIT) team from the University Medical Center Utrecht (UMCU) consists of researchers with different scientifical backgrounds. Our efforts are dedicated to develop and use bioinformatic tools that facilitate data analysis on large amounts of DNA sequences, including whole genome sequences (WGS), taxonomic profiling using 16S rRNA gene sequencing and metagenomic sequencing.
 
 
 {% include section.html full=true %}
