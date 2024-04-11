@@ -1,7 +1,7 @@
 ---
 name: Oscar Jordan
 image: 
-description: Master Student
+description: Student
 status: current
 role: student
 aliases:
