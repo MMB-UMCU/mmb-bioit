@@ -3,7 +3,7 @@ name: Doğukan Bayraktar
 image: images/people/dogukan-bayraktar.jpg
 description: Student
 status: current
-role: programmer
+role: student
 aliases: 
   - D. Bayraktar
 links:
