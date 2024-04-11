@@ -40,7 +40,7 @@ A microbiome is a collective polymicrobial community, or ‘microbiota’, inclu
 
 {%
   include feature.html
-  image="images/microbiome.png"
+  image="images/people/Plot_website.png"
   link="research"
   headline="Microbiome analysis"
   text=text
@@ -70,11 +70,10 @@ We are a group of enthusiastic scientists with different interests and backgroun
 
 {%
   include feature.html
-  image="images/group.jpg"
+  image="images/people/Group_picture_2024_2.jpg"
   link="team"
   headline="Our Team"
   text=text
 %}
 
-{% include twitter.html %}
 
