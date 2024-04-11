@@ -1,6 +1,6 @@
 ---
 name: Bart Boogaard
-image: images/people/jari-koot.jpg
+image: images/people/bart-boogaard.jpg
 description: Student
 role: student
 status: current
@@ -14,4 +14,4 @@ links:
   linkedin: bart-boogaard-1125591b2/
 ---
 
-I'm Bart, a former MSc Drug Innovation student with a newly found interest in programming. Following my 6 month internship in which I worked on analysis and visualization of metagenomic data, I remained at the MMB-BioIT group to further develop an R package for these purposes. 
+I'm Bart, a former MSc Drug Innovation student with a newly found interest in programming. Following my 6 month internship in which I worked on a project about analysis and visualization of metagenomic data, I remained at the MMB-BioIT group to continue developing an R package for these purposes. 
