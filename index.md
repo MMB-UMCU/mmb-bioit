@@ -15,6 +15,13 @@ The Medical Microbiology bioinformatics (MMB-BioIT) team from the University Med
 
 {% include section.html %}
 
+{% capture text %}
+We are a group of enthusiastic scientists with different interests and backgrounds that work in close collaboration with experimentalists and clinicians.
+
+[Meet our team &nbsp;→](team)
+{:.center}
+{% endcapture %}
+
 # Highlights
 
 {% capture text %}
@@ -60,21 +67,4 @@ The mission of our team is that the developed tools and analyzed data are releas
   headline="Our Tools"
   text=text
 %}
-
-{% capture text %}
-We are a group of enthusiastic scientists with different interests and backgrounds that work in close collaboration with experimentalists and clinicians.
-
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/group.jpg"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
-
-{% include twitter.html %}
 
