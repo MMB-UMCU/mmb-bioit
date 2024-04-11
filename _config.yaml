@@ -6,6 +6,8 @@ description: Website of the Medical Microbiology Bioinformatics group (MMB-BioIT
 logo: images/animated_logo_white.svg
 header: images/head_banner.jpg
 footer: images/head_banner.jpg
+header-dark: images/head_banner.jpg
+footer-dark: images/head_banner.jpg
 baseurl: 
 
 
