@@ -70,7 +70,7 @@ We are a group of enthusiastic scientists with different interests and backgroun
 
 {%
   include feature.html
-  image="images/group.jpg"
+  image="images/Group_picture_2024.jpg"
   link="team"
   headline="Our Team"
   text=text
