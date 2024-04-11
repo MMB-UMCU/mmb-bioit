@@ -63,7 +63,7 @@ github:
   link: https://github.com/$LINK
   
 gitlab:
-  icon: fab fa-github
+  icon: fab fa-gitlab
   text: GitLab
   tooltip: GitLab
   link: https://gitlab.com/$LINK
