@@ -7,11 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools & Education
 
-Hello fellow scientist! Welcome to our ‘Tools and Education’ section!
-
-In MMBioIT we actively develop tools for bacterial genomics, focusing on providing software that is easy to install and use. We strongly believe in transparent and collaborative science, and therefore all our tools are completely open-source. We encourage you to try our tools and, if you dare, suggest improvements for them.
-
-Are you a wet-labber? Are you interested in learning bioinformatics? Then you should check our Education section! You will find free courses to improve your bioinformatics skills.
+In MMBioIT we actively develop tools for bacterial genomics, focusing on providing software that is easy to install and use. We strongly believe in transparent and collaborative science, therefore all our tools are completely open-source. We encourage you to try our different tools.
 
 
 {% include search-info.html %}
