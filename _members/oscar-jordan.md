@@ -1,6 +1,6 @@
 ---
 name: Oscar Jordan
-image: 
+image: images/people/oscar-jordan.jpg
 description: Student
 status: current
 role: student
