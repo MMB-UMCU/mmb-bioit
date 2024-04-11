@@ -22,6 +22,14 @@ We are a group of enthusiastic scientists with different interests and backgroun
 {:.center}
 {% endcapture %}
 
+{%
+  include feature.html
+  image=""
+  link="team"
+  headline="Our Team"
+  text=text
+%}
+
 # Highlights
 
 {% capture text %}
