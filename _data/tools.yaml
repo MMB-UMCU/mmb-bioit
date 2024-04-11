@@ -1,4 +1,4 @@
-- name: Gplas2
+- name: gplas2
   group: wgs
   image: images/gplas2_logo.png
   link: https://gitlab.com/mmb-umcu/gplas2
@@ -52,7 +52,7 @@
 
 - name: plasmidCC
   group: wgs
-  image: images/plasmidCC_temporary_logo.png
+  image: images/plasmidCC_tmp_logo.png
   link: https://gitlab.com/mmb-umcu/plasmidCC
   description: "plasmidCC is a plasmid classification tool that uses Centrifuge to predict the origin of contigs (plasmid or chromosome). Out of the box, plasmidCC can be used to predict plasmid contigs of a selected number of species. By supplying a custom Centrifuge database, plasmidCC can be used for any desired species."
   repo: mmb-umcu/plasmidCC
