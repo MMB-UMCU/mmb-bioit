@@ -12,7 +12,7 @@
 {%- endif -%}
 
 
-<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ false }}">
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
