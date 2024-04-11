@@ -95,7 +95,7 @@ nav:
 
 ## Join
 
-{% Internship positions will be advertised on KonJoin %}
+Internship positions will be advertised on KonJoin
 {:.center}
 
 {% include link.html type="external" link="https://uu.konjoin.nl/profile/anita-schurch/" text="KonJoin" icon="" style="button" %}
