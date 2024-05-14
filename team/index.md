@@ -41,7 +41,7 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/head_banner.jpg" dark=true%}
 
 
 {% include section.html %}
@@ -88,7 +88,7 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/head_banner.jpg" dark=true%}
 
 
 {% include section.html %}
