@@ -2,7 +2,7 @@
 name: Oscar Jordan
 image: images/people/oscar-jordan.jpg
 description: Student
-status: current
+status: alumni
 role: student
 aliases:
   - Oscar Jordan
