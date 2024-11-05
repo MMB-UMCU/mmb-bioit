@@ -2,7 +2,7 @@
 name: Malbert Rogers
 image: images/people/malbert-rogers.jpg
 description: Support Bioinformatician
-status: current
+status: alumni
 role: programmer
 aliases: 
   - Malbert R. C. Rogers

@@ -3,7 +3,7 @@ name: Bart Boogaard
 image: images/people/bart-boogaard.jpg
 description: Student
 role: student
-status: current
+status: alumni
 aliases:
   - B. P. Boogaard
   - Bart P. Boogaard

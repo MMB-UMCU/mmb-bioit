@@ -1,9 +1,9 @@
 ---
 name: Doğukan Bayraktar
 image: images/people/dogukan-bayraktar.jpg
-description: Student
+description: Support Bioinformatician
 status: current
-role: student
+role: programmer
 aliases: 
   - D. Bayraktar
 links:
@@ -15,4 +15,4 @@ links:
   linkedin: doğukan-bayraktar-06102921b/
 ---
 
-I’m an intern in the BioIT group of the Medical Microbiology Department at the UMCU.
+I am the bioinformatician for the BioIT group of the Medical Microbiology Department.
