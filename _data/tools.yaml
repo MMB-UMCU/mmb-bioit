@@ -20,7 +20,7 @@
 
 - name: MetaMobilePicker
   group: metagenomics
-  image: images/MMP_logo.png
+  image: images/metamobilepicker_logo.png
   link: https://gitlab.com/jkerkvliet/metamobilepicker
   description: MetaMobilePicker is a computational pipeline designed to identify mobile genetic elements and antimicrobial resistance genes in metagenomics samples. Currently it identifies plasmids, insertion sequences and bacteriophages. 
   repo: jkerkvliet/metamobilepicker
@@ -43,7 +43,7 @@
 
 - name: plasmidEC
   group: wgs
-  image: images/plasmidEC_logo_2.svg
+  image: images/plasmidEC_logo.png
   link: https://gitlab.com/mmb-umcu/plasmidEC
   description: " plasmidEC identifies plasmid-derived contigs in all bacterial species. This tool combines the output of three binary classification tools and implements a majority vote system. Currently, the user can choose any combination of the following four softwares: Centrifuge, Platon, RFPlasmid and mlplasmids."
   repo: mmb-umcu/plasmidec
@@ -61,7 +61,7 @@
 
 - name: Bactofidia
   group: wgs
-  image: images/bactofidia_logo.png
+  image: images/bactofidia_logo2.png
   link: https://gitlab.com/mmb-umcu/bactofidia-stable
   description: bactofidia is a bacterial assembly and basic analysis pipeline using Snakemake and bioconda. It is currently written for paired-end Illumina data with length 250 or 150. The pipeline is written to ensure reproducibility, and creates virtual software environments with the software versions that are used for analysis.
   repo: mmb-umcu/bactofidia-stable
