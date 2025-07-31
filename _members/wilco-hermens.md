@@ -2,7 +2,7 @@
 name: Wilco Hermens
 image: images/people/wilco-hermens.jpg
 description: Student
-status: current
+status: alumni
 role: student
 aliases:
   -  wilcohermens
