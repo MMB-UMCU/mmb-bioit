@@ -1,6 +1,6 @@
 - name: gplascc
   group: wgs
-  image: images/gplasCClogo.png
+  image: images/gplascc_logo.png
   link: https://pypi.org/project/gplas/
   description: gplas is a tool to bin plasmid-predicted contigs based on sequence composition, coverage and assembly graph information. This tool extends the possibility of accurately binning predicted plasmid contigs into several discrete plasmid components.
   repo: mmb-umcu/gplascc
