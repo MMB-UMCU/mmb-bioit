@@ -17,4 +17,4 @@ links:
   linkedin: pilvi-hepooja
 ---
 
-Pilvi's bio
+I’m doing my PhD research in the Medical Microbiology department at the UMCU and the Medical Mycology group at Radboud UMC, studying Candida yeasts isolated from wastewater and other environmental samples.
